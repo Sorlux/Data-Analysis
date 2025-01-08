@@ -6,4 +6,4 @@ This repository contains jupyter notebooks and more related to data analysis Pro
 - `Decision Trees`: Work related to Random Forests, XGBoost, Regression & Classification trees, etc.
 - `Deep Learning`: Work related to neural networks such as CNNs. Also includes computer vision projects.
 - `Fuzzy Systems`: Work related to Fuzzy systems including Fuzzy Controllers. 
-
+- `Evolutionary Algorithms`: Genetic Algorithms and more 
