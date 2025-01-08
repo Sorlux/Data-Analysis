@@ -1,4 +1,4 @@
-# Data-Analysis
+# Data-Analysis and Machine Learning
 
 This repository contains jupyter notebooks and more related to data analysis Projects I have worked on. It is divided into algorithms and then notebooks/project folders populate the algorithm directories.
 
